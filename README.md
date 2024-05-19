@@ -32,7 +32,7 @@ Customer Insights: Develop customer segmentation based on purchase behavior and 
 Geographical Sales Analysis: Visualize the distribution of sales across different cities, states, and countries and identify top-performing regions and potential areas for expansion.
 
 
-Detailed explanation [here]()
+Detailed explanation [here](https://github.com/1uf3n/Datathon-dub/blob/main/Data%20Analysis.pdf)
 
 ### 2. Product Performance
 
