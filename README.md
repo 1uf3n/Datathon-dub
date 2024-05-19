@@ -25,6 +25,9 @@ The company needs to understand these trends and identify key factors influencin
 
 Detailed explanation [here](https://github.com/1uf3n/Datathon-dub/blob/main/Data%20Analysis.pdf)
 
+[Link to Tableau Data Visualization](https://public.tableau.com/app/profile/mandy.zhang4182/viz/datathon_17160547673090/ChangesinCustomerPurchasingHabitsOvertheYears)
+
+
 ### 2. Product Performance
 
 #### Metric Formulas:
@@ -41,4 +44,3 @@ Detailed explanation [here](https://github.com/1uf3n/Datathon-dub/blob/main/Data
 
 Detailed explanation [here](https://github.com/1uf3n/Datathon-dub/blob/main/Product%20performance%20analysis.pdf)
 
-[Link to Tableau Data Visualization](https://public.tableau.com/app/profile/mandy.zhang4182/viz/datathon_17160547673090/ChangesinCustomerPurchasingHabitsOvertheYears)
